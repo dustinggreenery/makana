@@ -1,0 +1,6 @@
+[submodule "makana-contracts"]
+	path = makana-contracts
+	url = https://github.com/dustinggreenery/makana-contracts.git
+[submodule "makana-front-end"]
+	path = makana-front-end
+	url = https://github.com/dustinggreenery/makana-front-end.git
